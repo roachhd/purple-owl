@@ -1,7 +1,7 @@
 markdown: rdiscount
 pygments: true
 url: roachhd.github.io/purple-owl/
-permalink: /purple-owl/posts/:title
+permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
