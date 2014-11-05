@@ -1,3 +1,8 @@
+---
+layout: post
+title: Super Simple Hack List
+category: To Do
+---
 Super Simple Hack List
 ===
 
