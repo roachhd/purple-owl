@@ -6,7 +6,6 @@ rdiscount:
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 title:  Purple Owl
 production_url: http://roachhd.github.io/purple-owl/
-url:  roachhd.github.io/purple-owl/
 description: "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah."
 disqus_shortname: roachhd
 analytics: UA-47871720-4
