@@ -4,7 +4,7 @@ permalink: /purple-owl/posts/:title
 rdiscount:
   extensions: [smart]
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
-title:  The Purple Owl
+title:  Purple Owl
 production_url: http://roachhd.github.io/purple-owl/
 baseurl:  roachhd.github.io/purple-owl/
 description: "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah."
