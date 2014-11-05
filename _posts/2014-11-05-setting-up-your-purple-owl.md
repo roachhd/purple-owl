@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting up your own Purple Owl
+title: Setting up your Purple Owl
 category: posts
 ---
 
