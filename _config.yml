@@ -1,0 +1,21 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
+title:  Purple Owl
+production_url: http://katieball.me/purple-owl
+description: "Thoughts, learnings, technology, tutorials, codes, projects and other things by Katie Ball."
+disqus_shortname: roachhd
+analytics: UA-47871720-4
+gauges: 50f2b533613f5d7c8000000c
+author:
+  name: Katie Ball
+  github: roachhd
+  twitter:  mektball
+  email: katie@roachhd.com
+# Use the following plug-ins
+gems:
+  - jemoji # Emoji please!
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
