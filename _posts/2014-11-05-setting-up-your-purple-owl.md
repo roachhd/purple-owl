@@ -2,6 +2,7 @@
 layout: post
 title: Setting up your Purple Owl
 category: posts
+permalink: /purple-owl/
 ---
 
 Purple Owl is a clean and beautiful [Bootstrap](http://getbootstrap.com) based layout
