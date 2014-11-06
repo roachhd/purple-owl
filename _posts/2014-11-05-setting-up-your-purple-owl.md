@@ -48,7 +48,7 @@ This is [MIT](https://github.com/roachhd/purple-owl/blob/master/LICENSE) with no
 added caveats, so feel free to use this on your site without linking back to
 me or using a disclaimer or anything silly like that.
 
-If you'd like give @roachhd, 
+If you'd like give [me roachhd](http://github.com/roachhd), 
 [Caarlos0](http://github.com/caarlos0),
 [holman](http://github.com/holman)
 (from [left](http://github.com/holman/left) layout),
