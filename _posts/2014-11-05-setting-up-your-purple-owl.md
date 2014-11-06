@@ -22,8 +22,8 @@ All credit to [caarlos0](http://github.com/caarlos0) for the beautiful UP Jekyll
 
 - Install Jekyll: `gem install jekyll`
 - Fork this repository
-- Rename it to `To Do` or whatever you like!
-- Clone it: `git clone https://github.com/YOUR-USER/To-Do`
+- Rename it to `purple-owl` or whatever you like!
+- Clone it: `git clone https://github.com/YOUR-USER/purple-owl`
 - Run the jekyll server in the blog folder: `rake preview`.
 
 You should have a server up and running locally at <http://localhost:4000>.
@@ -48,7 +48,7 @@ This is [MIT](https://github.com/roachhd/purple-owl/blob/master/LICENSE) with no
 added caveats, so feel free to use this on your site without linking back to
 me or using a disclaimer or anything silly like that.
 
-If you'd like give [me](http://github.com/roachhd), 
+If you'd like give @roachhd, 
 [Caarlos0](http://github.com/caarlos0),
 [holman](http://github.com/holman)
 (from [left](http://github.com/holman/left) layout),
