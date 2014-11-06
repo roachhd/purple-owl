@@ -5,7 +5,7 @@ category: posts
 ---
 
 Purple Owl is a clean and beautiful [Bootstrap](http://getbootstrap.com) based layout
-for [Jekyll](https://github.com/mojombo/jekyll).
+for [Jekyll](https://github.com/mojombo/jekyll). 
 
 This is designed to be an easy layout to modify for your own hackers style To Do list. It was
 based on [zachholman's](http://zachholman.com/) blog themes: the "old" one, now
@@ -23,7 +23,7 @@ All credit to [caarlos0](http://github.com/caarlos0) for the beautiful UP Jekyll
 - Install Jekyll: `gem install jekyll`
 - Fork this repository
 - Rename it to `purple-owl` or whatever you like!
-- Clone it: `git clone https://github.com/YOUR-USER/purple-owl`
+- Clone it: `git clone https://github.com/YOUR-USERNAME/purple-owl`
 - Run the jekyll server in the blog folder: `rake preview`.
 
 You should have a server up and running locally at <http://localhost:4000>.
